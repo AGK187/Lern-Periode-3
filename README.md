@@ -1,7 +1,11 @@
 Lern-Periode 3
+
 Antoni Gerej
+
 12.1. bis 23.2.2024
+
 Grob-Planung
+
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 Was wäre ein geeignetes Projekt würd diese LP3?
