@@ -6,10 +6,11 @@ Antoni Gerej
 
 Grob-Planung
 
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Was wäre ein geeignetes Projekt würd diese LP3?
+
+Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 319 jeweils eine 5.5. Im Modul 162 hatte ich eine 4.5. In der zweiten Lernperiode habe ich mir vorgenommen, mehr zu programmieren. Ich habe vor in dieser Lernperiode nochmals mit Windows forms zu arbeiten.
 12.1.2024
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 19.1.2024
 [ ] Erstes Arbeitspaket
