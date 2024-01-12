@@ -25,6 +25,9 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1	 	 	 	 
 ...	 	 	 	 
 4	 	 	 	 
+
+
+
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 26.1.2024
