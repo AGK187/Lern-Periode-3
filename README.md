@@ -21,10 +21,10 @@ Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 
 
 [ ] 4: Noch mehr Funktionen für den Cookie clicker. Spezielle upgrades oder achievments 
 
-¦¦Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-¦¦1	 	 	 	 
-¦¦...	 	 	 	 
-¦¦4	 	 	 	 
+|Testfall-Nummer|	Ausgangslage (Given)|	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+|1	 	 	 	      |                     |
+|...	 	 	 	    |                     |
+|4	 	 	 	      |                     |
 
 
 
