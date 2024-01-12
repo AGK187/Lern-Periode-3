@@ -23,13 +23,13 @@ Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 
 
 | Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
 | ----------| ------- | ------------------------------------------------------------ |------------------------------------|
-|           | 0.0.1   |  |  |
-|  6.11     | 0.0.2   |                                                              |  |
-| 13.11     | 0.0.3   |                                                              |  |
-| 20.11     | 0.0.4   |   |   |
-| 27.11     | 0.0.5   |  |   |
-| 1.12      | 0.0.6   |   |   |
-| 3.12      | 0.0.7   | |   |
+|     1      |Der Taschenrechner wurde aufgemacht und beide Zahlen wurden eingegeben  | kalkulieren-Taste | Differenz der 2 Zahlen |
+|    2   |Cookie Clicker ist offen  |        Keks klicken                                                      | Zähler erhöht sich um 1 |
+|   3   | Cookie clicker offen, genug geld für ein upgrade   |          upgrade taste und nachher keks klicken                                                    | kecks gibt mehr als 1 |
+|      |   |   |   |
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
 
 
 
