@@ -30,16 +30,18 @@ Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 
 |     |    |  |   |
 |       |    |   |   |
 |      |    | |   |
+|    |  |  |
 
 
 
 
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+
 26.1.2024
-[ ] Fünftes AP
-[ ] Spiel endet, wenn Schlange sich selber beisst
+[ ] 5: Cookie clicker mit noch mehr Upgrades erweitern. zum beispiel passives einkommen
+
+[ ] 6: 
 [ ] Achtes AP
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 5	 	 	 	 
