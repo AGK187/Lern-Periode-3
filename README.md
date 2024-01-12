@@ -13,9 +13,14 @@ Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 19.1.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] 1: Kalkaulator abschliessen. 2 Zahlen sollen miteinander dividiert werden können.
+
+[ ] 2: Cooklie Clicker hauptfunktionen. Der Counter sollte sich um 1 erhöhen pro click.
+
+[ ] 3: Cookie Clicker erweiterte Funktionen. Dinge wie upgrades zum beispiel.
+
+[ ] 4: Noch mehr Funktionen für den Cookie clicker. Spezielle upgrades oder achievments 
+
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1	 	 	 	 
 ...	 	 	 	 
