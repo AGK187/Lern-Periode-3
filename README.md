@@ -26,7 +26,7 @@ Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 
 |     1      |Der Taschenrechner wurde aufgemacht und beide Zahlen wurden eingegeben  | kalkulieren-Taste | Differenz der 2 Zahlen |
 |    2   |Cookie Clicker ist offen  |        Keks klicken                                                      | Zähler erhöht sich um 1 |
 |   3   | Cookie clicker offen, genug geld für ein upgrade   |          upgrade taste und nachher keks klicken                                                    | kecks gibt mehr als 1 |
-|      |   |   |   |
+|   4   |  es wurde 999 mal auf den keks geklickt | 1 mal klicken  | Minifenster poppt auf und sagt dir das du 100 mal geklickt hast  |
 |     |    |  |   |
 |       |    |   |   |
 |      |    | |   |
