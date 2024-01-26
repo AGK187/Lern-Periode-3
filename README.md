@@ -8,6 +8,8 @@ Antoni Gerej
 Meine Noten hier an der BBB sind eigentlich sehr gut. Ich habe im Modul 431 und 319 jeweils eine 5.5. Im Modul 162 hatte ich eine 4.5. In der zweiten Lernperiode habe ich mir vorgenommen, mehr zu programmieren. Ich habe vor in dieser Lernperiode nochmals mit Windows forms zu arbeiten.
 
 ## 19.1.2024
+
+Ich habe heute den Kalkulator abgeschlossen. Ich hatte zwar ein bisschen Schwierigkeiten am Anfang, konnte sie jedoch beseitigen.
 - [ ] 1: Kalkaulator abschliessen. 2 Zahlen sollen miteinander dividiert werden können.
 - [ ] 2: Cooklie Clicker hauptfunktionen. Der Counter sollte sich um 1 erhöhen pro click.
 - [ ] 3: Cookie Clicker erweiterte Funktionen. Dinge wie upgrades zum beispiel.
